@@ -3,13 +3,13 @@ package Capitulo1_AlgoritmosLogicaProg;
 import java.util.Locale;
 import java.util.Scanner;
 
-import javax.management.StringValueExp;
-
 /*Desenvolver um programa que calcule o salário líquido de um professor. Para elaborar o programa,
  *é necessário possuir alguns dados, como valor da hora-aula, número de horas trabalhadas no mês e
  *percentual de desconto do INSS. Em primeiro lugar, deve-se estabelecer o seu salário bruto para 
  *fazer o desconto e ter o valor do salário líquido.
- *Entendimento: 
+ *
+ *Entendimento:
+ * 
  *1. Estabelecer a leitura da variável HT [horasTrabalhadas].
  *2. Estabelecer a leitura da variável VH [valorHoraAula].
  *3. Estabelecer a leitura da variável PD [percentualDesconto].
