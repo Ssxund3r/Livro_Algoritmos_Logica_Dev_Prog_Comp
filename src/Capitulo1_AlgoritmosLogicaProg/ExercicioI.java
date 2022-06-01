@@ -7,14 +7,20 @@ import java.util.Scanner;
 public class ExercicioI {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
-		int n, r;
+		int n, r, rMath;
 
 		System.out.println("Digite um valor: ");
 		n = scanner.nextInt();
 
 		r = n * n;
 
+		// Ou...
+
+		rMath = (int) Math.pow(n, 2);
+
 		System.out.println("O resultado do valor é: " + r);
+		System.out.println("------------------------------------");
+		System.out.println("O resultado do valor é: " + rMath);
 
 		scanner.close();
 	}
