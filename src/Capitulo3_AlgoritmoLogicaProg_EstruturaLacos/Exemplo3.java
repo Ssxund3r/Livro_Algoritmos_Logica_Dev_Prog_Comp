@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Exemplo3 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+		
 		int R, N;
 
 		for (int i = 1; i < 5; i++) {
