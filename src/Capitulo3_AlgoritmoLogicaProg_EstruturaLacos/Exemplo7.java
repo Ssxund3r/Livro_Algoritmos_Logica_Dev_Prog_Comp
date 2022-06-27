@@ -9,7 +9,6 @@ package Capitulo3_AlgoritmoLogicaProg_EstruturaLacos;
  *4. Repetir os passos 2 e 3 até o limite de 5 para variável CONT;
  *5. Apresentar ao final o valor obtido na variável FAT;
  *6. Encerrar o programa.*/
-import java.util.Scanner;
 
 public class Exemplo7 {
 	public static void main(String[] args) {		
